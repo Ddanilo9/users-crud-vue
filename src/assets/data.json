@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "ds",
+      "surname": "ds",
+      "email": "ds",
+      "role": "admin",
+      "enabled": true
+    },
+    {
+      "id": 4,
+      "name": "danilo",
+      "surname": "cdsc",
+      "email": "interiordanilo3@gmail.com",
+      "role": "admin",
+      "enabled": true
+    }
+  ]
+}
